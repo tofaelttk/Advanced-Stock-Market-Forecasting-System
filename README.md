@@ -79,5 +79,3 @@ Reinforcement Learning for market strategy optimization
 Integration with live stock market APIs for real-time predictions
 
 Contributing
-
-I welcome contributions! Feel free to fork the repository, implement your improvements, and submit a pull request.
